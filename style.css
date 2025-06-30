@@ -1,0 +1,22 @@
+body {
+  background-color: #008080;
+  color: white;
+  text-align: center;
+}
+
+img {
+  border-radius: 10px;
+  max-width: 100%;
+  height: auto;
+}
+
+figcaption a {
+  color: white;
+  text-decoration: underline;
+}
+
+form input,
+form button {
+  background-color: white;
+  color: #008080;
+}
